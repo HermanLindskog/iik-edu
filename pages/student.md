@@ -137,7 +137,7 @@ title: Studentforeninger
 ---
 *   [Abakus](https://abakus.no/) - Linjeforening (Trondheim)
 *   [Login](https://login.no) - Linjeforening (Gjøvik)
-*   [Online](https://online.ntnu.no/) - Linjeforening (Trondheim)
+*   [Tihlde](https://tihlde.org/) - Linjeforening (Trondheim)
 *   [Itemize NTNU](https://itemize.no/) - Interesseorganisasjon for informasjonssikkerhet og CTF-lag (Trondheim)
 
 
